@@ -1,7 +1,7 @@
 # quote-generator
 
 <img src="quote-generator.png" width="600" alt="A screenshot of the quote generator">
-<img src="quote-generator-responsive.png" width="200" alt="A screenshot of the responsive quote generator">
+<img src="quote-generator-responsive.png" width="150" alt="A screenshot of the responsive quote generator">
 
 ---
 
