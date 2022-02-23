@@ -9,6 +9,7 @@
 
 ## Course Topics Covered
 - Fetching Data with JavaScript
+- Manipulating DOM with JavaScript
 - 
 
 ---
@@ -21,4 +22,4 @@
 - <a href="https://academy.zerotomastery.io/p/javascript-projects" target="_blank">ZTM 20 JavaScript Porjects</a>
 - <a href="https://github.com/JacintoDesign/quote-generator" target="_blank">Github Quote Generator - Jacinto Design</a>
 - <a href="https://type.fit/api/quotes" target="_blank">Quotes API</a>
-- <a href="#" target="_blank">#</a>
+- <a href="https://twitter.com/intent/tweet" target="_blank">Web Intent URL</a>
