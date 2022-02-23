@@ -7,9 +7,10 @@
 
 ## Course Reference: <a href="https://academy.zerotomastery.io/p/javascript-projects" target="_blank" title="ZTM Website"> 20 JavaScript Portfolio Projects with Zero to Mastery</a>
 
-## Course Topics Covered
-- Fetching Data with JavaScript
-- Manipulating DOM with JavaScript
+## Quote Generator's features
+- Fetching Data 
+- DOM Manipulation 
+- JavaScript Loading Animation
 - 
 
 ---
@@ -23,3 +24,4 @@
 - <a href="https://github.com/JacintoDesign/quote-generator" target="_blank">Github Quote Generator - Jacinto Design</a>
 - <a href="https://type.fit/api/quotes" target="_blank">Quotes API</a>
 - <a href="https://twitter.com/intent/tweet" target="_blank">Web Intent URL</a>
+- <a href="https://www.w3schools.com/howto/howto_css_loader.asp" target="_blank">W3C: How to make a loader</a>
