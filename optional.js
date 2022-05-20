@@ -20,10 +20,10 @@ function completeLoadingSpinner() {
 // get quote from API
 async function getQuote() {
     showLoadingSpinner()
-    // const proxyUrl = 'https://cors-anywhere.herokuapp.com/'
+    const proxyUrl = 'https://polar-bayou-75673.herokuapp.com/'
     const apiUrl = 'http://api.forismatic.com/api/1.0/?method=getQuote&lang=en&format=json'
     try {
-        const response = await fetch(apiUrl)
+        const response = await fetch(proxyUrl + apiUrl)
         const data = await response.json()
         // replace missing author with unknown
         if (data.quoteAuthor === '') {
@@ -32,7 +32,7 @@ async function getQuote() {
             authorText.innerText = data.quoteAuthor
         }
         // reduce font size for long quotes
-        if (data.quoteTet.length > 120) {
+        if (data.quoteText.length > 120) {
             quoteText.classList.add('long-quote')
         } else {
             quoteText.classList.remove('long-quote')
