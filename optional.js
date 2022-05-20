@@ -41,7 +41,7 @@ async function getQuote() {
         completeLoadingSpinner()
     } catch (error) {
          console.log('No quote? ', error)
-        // getQuote() // 429 (too many requests)
+        getQuote()
 
     }
 }
