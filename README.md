@@ -16,7 +16,9 @@
 - <a href="https://type.fit/api/quotes" target="_blank">Quotes API</a>
 - <a href="https://twitter.com/intent/tweet" target="_blank">Web Intent URL</a>
 - <a href="https://www.w3schools.com/howto/howto_css_loader.asp" target="_blank">W3Schools: How to make a loader</a>
+- [Twitter Integration Documentation](https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent)
 - [Random Quote API](https://forismatic.com/en/api/)
 - [Fix Cors Errors - Article](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9)
-- [Twitter Integration Documentation](https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent)
 - [Cors Anywhere API - GitHub Documentation](https://github.com/Rob--W/cors-anywhere/#documentation)
+- [Heroku](https://www.heroku.com/)
+- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
